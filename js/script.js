@@ -1,11 +1,11 @@
 $(document).ready(function() {
-    $(".img1").hover(function() {
+    $(".img1").click(function() {
       $(".p1").toggle();
     });
-    $(".img2").hover(function() {
+    $(".img2").click(function() {
         $(".p2").toggle();
     });
-    $(".img3").hover(function() {
+    $(".img3").click(function() {
         $(".p3").toggle();
     });
   });
