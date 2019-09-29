@@ -2,15 +2,15 @@
 
 #### By **Mariam Osman**
 ## Description
-This is a website
+This is Delani Stuido's website which is gives more description about what Delani Studio offers to their customers and highlights some of their best projects and outstanding capabilities.
 ## Setup/Installation Requirements
 * Open OsmanMariam profile on GitHUb or search for username.
-* Click on akan names repository.
+* Click on Delani-studio repository.
 * Click on the link displayed next to the description.
 
 
 ## Technologies Used
-I this project, HTML was used to develop the basic structure of thye page.CSS was later used to to style the page and make it more appealing by adding elements such as images and color,and also by neatly arranging the text in the page. Additional stylying using bootstrap was also incorporated.The functionality of the website application was all achieved using javascript.
+I this project, HTML was used to develop the basic structure of thye page.CSS was later used to to style the page and make it more appealing by adding elements such as images and color,and also by neatly arranging the text in the page. Additional stylying using bootstrap was also incorporated.The functionality of the website application was all achieved using javascript and jquery to add effects and for easy interaction with the website.
 ## Support and contact details
 This is is an open source code therefore ideas and corrections are welcomed by contacting the email sufimariam8@gmail.com .
 ### License
