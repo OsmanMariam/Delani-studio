@@ -33,4 +33,9 @@ $(document).ready(function() {
     $(".H").hover(function() {
         $(".ph").toggle();
     });
-  });
+});
+
+    function contact(form){
+        alert("Thank you" + name + "for reaching out to us");
+    };
+  
