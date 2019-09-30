@@ -36,6 +36,6 @@ $(document).ready(function() {
 });
 
     function contact(form){
-        alert("Thank you" + name + "for reaching out to us");
+        alert("Thank you" + name + "for  reaching out to us");
     };
   
