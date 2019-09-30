@@ -33,5 +33,11 @@ h1,h2,h3{
 .contact{
     background-image: url("../assets/backgrounds/c_image.jpg");
     background-color: transparent;
+    text-align: center;
+
+}
+
+.section6{
+    padding-left:37%;
 
 }
