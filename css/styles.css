@@ -24,3 +24,9 @@
 h1,h2,h3{
     font-weight: bold;
 }
+.pa,.pb,.pc,.pd,.pe,.pf,.pg,.ph{
+    display: none;
+}
+.p1,.p2,.p3{
+    display: none;
+}
